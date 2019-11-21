@@ -1,0 +1,9 @@
+---
+#point cloud cut angle, must be >0
+cut_angle_start: 180.0
+cut_angle_end: 360.0
+clusteByAngle_radius: 2
+clusteByAngle_minPts: 200
+clusteByPoints_radius: 0.3
+clusteByPoints_minPts: 100
+min_merge_score: 0.99
